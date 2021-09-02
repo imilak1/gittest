@@ -1,7 +1,8 @@
 package com.example.gitpractice.models;
 
 public class login {
-    int loginId;
+    private int loginId;
+    private String username;
 
     public login(){
 
